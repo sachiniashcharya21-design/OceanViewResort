@@ -1,0 +1,3 @@
+admin 
+username : admin
+pass : admin@123
